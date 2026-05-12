@@ -8,7 +8,7 @@ This repository contains a business intelligence dashboard that provides insight
 
 ## 📊 Project Contents
 
-- **churn analysis (1).pbix** - Power BI dashboard file with interactive visualizations and analysis
+- **churn analysis.pbix** - Power BI dashboard file with interactive visualizations and analysis
 - **Documentation** - Project report and presentation materials
 
 ## 🎯 Key Features
@@ -26,7 +26,7 @@ This repository contains a business intelligence dashboard that provides insight
 
 ## 📋 How to Use
 
-1. Open the Power BI file (`churn analysis (1).pbix`) in Microsoft Power BI Desktop or Power BI Service
+1. Open the Power BI file (`churn analysis.pbix`) in Microsoft Power BI Desktop or Power BI Service
 2. Explore the interactive visualizations and filters
 3. Use the dashboard to:
    - Monitor current churn metrics
